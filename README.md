@@ -6,4 +6,5 @@ Link do repositório: https://github.com/kaue-andrade/sitedefofocas
 Desenvolvido por:
 
 Antonio Carlos Borges de Souza;
+
 Kauê Andrade dos Santos.
